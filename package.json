@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vladvinitskiy.github.io/reactagram/",
+  "homepage": "https://vladvinitskiy.github.io/reactagram",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.1",
