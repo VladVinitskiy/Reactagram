@@ -4,8 +4,7 @@ In the project directory, you can run application, that allows you to change som
 
 ## Deployment
 
-This project has moved here: https://reacta-gram.herokuapp.com/
-
+This project has moved here: https://reacta-gram.herokuapp.com/ If the site will be loaded for a long time, please wait for the heroku wake up
 
 ### `npm start`
 
