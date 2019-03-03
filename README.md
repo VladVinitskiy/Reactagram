@@ -1,4 +1,4 @@
-## Available Scripts
+## Description about project
 
 In the project directory, you can run application, that allows you to change some images with help some filters, also you can upload your own image, from your hard drive or enter some valid url of image.
 
